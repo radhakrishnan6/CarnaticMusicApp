@@ -8,6 +8,7 @@ interface Feature {
   description: string;
   route: string;
   color: string;
+  
 }
 
 @Component({
@@ -48,7 +49,7 @@ interface Feature {
         </div>
       </section>
 
-      <!-- Features Grid -->
+      <!-- Features Grid  gird grid grid -->
       <section class="section-spacing bg-white">
         <div class="container-main">
           <h2 class="text-3xl md:text-4xl font-bold text-center text-slate-900 mb-12">
